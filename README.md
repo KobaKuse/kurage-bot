@@ -33,9 +33,9 @@ Read Messages, Send Messages, Manage Messages
 
 ## Special Thanks
 花染 - 繪製頭像圖等的會師  
-Felix - 出借bot執行及維持用的伺服器  
+Felix - 出借機器人執行及維持用的伺服器  
 烤魚 - 將`README.md`翻譯成中文  
-克巴與小夥伴 - 小小的幫助
+克巴與小夥伴 - 翻譯的幫助
 
 ## 最後
 汝之身托吾麾下，吾之命運附汝機器人上。  
