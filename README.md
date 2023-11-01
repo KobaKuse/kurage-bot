@@ -1,6 +1,7 @@
 # kurage-bot
 [![Go Version](https://img.shields.io/badge/Go-1.17-blue)](https://golang.org/)
-[![GitHub Release](https://img.shields.io/github/v/release/KobaKuse/kurage-bot)](https://github.com/KobaKuse/kurage-bot/releases)  
+[![GitHub Release](https://img.shields.io/github/v/release/KobaKuse/kurage-bot)](https://github.com/KobaKuse/kurage-bot/releases/)
+  
 **Kurage醬**是一個在Discord端上可以發送並顯示推特訊息連結的機器人  
 以及她的可愛可以療癒使用者  
 [![Image from Gyazo](https://i.gyazo.com/76ea3731654dea6f5d30d46f35fa0235.gif)](https://gyazo.com/76ea3731654dea6f5d30d46f35fa0235)
