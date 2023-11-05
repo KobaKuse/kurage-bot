@@ -36,7 +36,7 @@ Read Messages, Send Messages, Manage Messages
 
 ## Special Thanks
 花染 - 繪製頭像圖等的會師  
-Felix - 出借機器人執行及維持用的伺服器  
+三櫻雲晟 - 出借機器人執行及維持用的伺服器  
 烤魚 - 將`README.md`翻譯成中文  
 克巴與小夥伴 - 翻譯的幫助
 
