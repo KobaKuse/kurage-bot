@@ -9,8 +9,11 @@
 ## Getting Started(入門指南)
 
 - [此鏈接](https://discord.com/oauth2/authorize?client_id=1168567471872163880&permissions=11264&scope=bot)使用後可以將機器人加入到伺服器
+    - 如果傳送門無法到達時 請嘗試其他傳送門
+    - [傳送門二世](https://discord.com/oauth2/authorize?client_id=1169786024822579340&permissions=11264&scope=bot) [傳送門三世](https://discord.com/oauth2/authorize?client_id=1170283088312533093&permissions=11264&scope=bot) [傳送門四世](https://discord.com/oauth2/authorize?client_id=1170285830787575881&permissions=11264&scope=bot)
 - 這樣就成功將機器人加入了！ 很簡單吧！
 - **注意** 機器人只能由有伺服器管理權限者加入
+
 
 ## 針對開發者
 - 克隆儲存庫
