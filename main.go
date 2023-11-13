@@ -41,6 +41,9 @@ func main() {
 
 	<-stopBot
 	err = discord.Close()
+	if err != nil {
+		fmt.Println(err)
+	}
 }
 
 func onReady(s *discordgo.Session, event *discordgo.Ready) {
